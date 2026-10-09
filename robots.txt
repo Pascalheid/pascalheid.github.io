@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pascalheid.github.io/sitemap.xml
